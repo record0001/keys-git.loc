@@ -1,2 +1,2 @@
- record0001.github.io
+ keys.github.io
 хост проба
